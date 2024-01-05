@@ -31,7 +31,7 @@ HomePage.getLayout = function getLayout(page) {
   return <RootLayout>{page}</RootLayout>
 }
 
-export const getStaticProps = async () => {
+export const getServerSideProps = async () => {
   const res = await fetch(`http://127.0.0.1:3000/api/products`)
   const data = await res.json();
   return {

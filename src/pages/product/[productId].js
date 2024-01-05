@@ -39,18 +39,18 @@ ProductDetails.getLayout = function getLayout(page) {
     return <RootLayout>{page}</RootLayout>
 }
 
-export const getStaticPaths = async () => {
-    const res = await fetch('http://127.0.0.1:3000/api/products')
-    const products = await res.json();
-    const paths = products.data.map((product) => ({
-        params: { productId: product._id },
-    }))
-    // console.log(paths);
-    return { paths, fallback: false };
-}
+// export const getStaticPaths = async () => {
+//     const res = await fetch('http://127.0.0.1:3000/api/products')
+//     const products = await res.json();
+//     const paths = products.data.map((product) => ({
+//         params: { productId: product._id },
+//     }))
+//     // console.log(paths);
+//     return { paths, fallback: false };
+// }
 
 
-export const getStaticProps = async (context) => {
+export const getServerSideProps = async (context) => {
     console.log("id", context.params.productId)
     const id = context.params.productId;
     const res = await fetch(`http://127.0.0.1:3000/api/products?id=${id}`)

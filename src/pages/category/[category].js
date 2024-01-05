@@ -38,17 +38,17 @@ Categories.getLayout = function getLayout(page) {
     return <RootLayout>{page}</RootLayout>
 }
 
-export const getStaticPaths = async () => {
-    const res = await fetch('http://127.0.0.1:3000/api/products')
-    const products = await res.json();
-    const paths = products.data.map((product) => ({
-        params: { category: product.category },
-    }))
-    return { paths, fallback: false };
-}
+// export const getStaticPaths = async () => {
+//     const res = await fetch('http://127.0.0.1:3000/api/products')
+//     const products = await res.json();
+//     const paths = products.data.map((product) => ({
+//         params: { category: product.category },
+//     }))
+//     return { paths, fallback: false };
+// }
 
 
-export const getStaticProps = async ({ params }) => {
+export const getServerSideProps = async ({ params }) => {
     const res = await fetch(`http://127.0.0.1:3000/api/products?category=${params.category}`)
     const data = await res.json();
     return {
