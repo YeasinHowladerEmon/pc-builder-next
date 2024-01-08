@@ -3,7 +3,7 @@
       {
         "image": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/athlon-3000g/athlon-3000g-1-228x228.jpg",
         "name": "AMD Athlon 3000G Processor with Radeon Graphics",
-        "category": "Processor",
+        "category": "processor",
         "subCategory": "AMD",
         "price": 7500,
         "description": "Designed for overclocking, the Athlon 3000G 3.5 GHz Dual-Core AM4 Processor from AMD has a base clock speed of 3.5 GHz, two cores with four threads in an AM4 socket, 1MB of L2 cache memory, and 4MB of L3 cache memory. Having two cores allows the processor to run multiple programs simultaneously without slowing down the system, while the four threads allow a basic ordered sequence of instructions to be passed through or processed by a single CPU core. This processor also has a TDP of 35W. Graphically, the Athlon 3000G uses integrated AMD Radeon Vega 3 Graphics. It is also unlocked, meaning it can be overclocked past its maximum turbo frequency. However, this is not recommended, as it will cause the processor to run much hotter. Also, the warranty does not cover damage caused by overclocking, even when overclocking is enabled via AMD hardware. (No Warranty for Fan or Cooler)",
@@ -17,7 +17,7 @@
       {
         "image": "https://www.startech.com.bd/image/cache/catalog/processor/intel/intel-12th-gen-pentium-gold-g7400/intel-pentium-gold-g7400-12th-gen-alder-lake-01-500x500.jpg",
         "name": "Intel Pentium Gold G7400 Alder Lake Processor",
-        "category": "Processor",
+        "category": "processor",
         "subCategory": "Intel",
         "price": 7300,
         "description": "Intel 12th Gen Pentium Gold G7400 Alder Lake Processor is a CPU from Intel. Intel Pentium Gold G7400 12th gen Processor turns your desktop computer system or data server into a more efficient machine. This 12th generation 3.7 GHz processor features two Performance cores and 6MB of cache with support for up to four threads, providing the power to run and multitask a variety of applications. The Pentium Gold G7400 also includes support for PCI Express 5.0 and dual-channel DDR5 memory in addition to having integrated Intel UHD 710 Graphics. An Intel Laminar RS1 thermal solution is included.",
@@ -30,7 +30,7 @@
       {
         "image": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/pentium-gold-g6405/pentium-gold-g6405-01-500x500.webp",
         "name": "Intel Pentium Gold G6405 Coffee Lake Processor",
-        "category": "Processor",
+        "category": "processor",
         "subCategory": "Intel",
         "price": 8000,
         "description": "Designed for overclocking, the Athlon 3000G 3.5 GHz Dual-Core AM4 Processor from AMD has a base clock speed of 3.5 GHz, two cores with four threads in an AM4 socket, 1MB of L2 cache memory, and 4MB of L3 cache memory. Having two cores allows the processor to run multiple programs simultaneously without slowing down the system, while the four threads allow a basic ordered sequence of instructions to be passed through or processed by a single CPU core. This processor also has a TDP of 35W. Graphically, the Athlon 3000G uses integrated AMD Radeon Vega 3 Graphics. It is also unlocked, meaning it can be overclocked past its maximum turbo frequency. However, this is not recommended, as it will cause the processor to run much hotter. Also, the warranty does not cover damage caused by overclocking, even when overclocking is enabled via AMD hardware. (No Warranty for Fan or Cooler)",
@@ -43,7 +43,7 @@
       {
         "image": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/athlon-3000g/athlon-3000g-1-228x228.jpg",
         "name": "AMD Ryzen 5 2400G Desktop Processor with Radeon RX Vega 11 Graphics",
-        "category": "Processor",
+        "category": "processor",
         "subCategory": "AMD",
         "price": 8800,
         "description": "AMD Ryzen 5 2400G Intelligent Desktop Processor is able to provide high-performance computing experience. The revolutionary AMD multi-threaded processor has 4 cores and 8 threads for ensuring blazing fast performance basic work & professional game play. This micro-device also equipped with most powerful Radeon RX Vega graphics containing advanced â€˜Vegaâ€™ graphics technology to deliver fast & smooth gaming performance. This graphics armed with most advanced, powerful computing combined in a single processor to create an impact on heavy duty performance without compromise. The most compatible AM4 socket for AMD Ryzen Ready AM4 Chipset motherboards gives the new future-proof platform. AMD SenseMI technology uses true machine intelligence and Master Utility provides Simple and Powerful Overclocking facility",
@@ -56,7 +56,7 @@
       {
         "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/asrock/h81m-vg4-r4-0/h81m-vg4-r4-0-01-500x500.jpg",
         "name": "ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard",
-        "category": "Motherboard",
+        "category": "motherboard",
         "subCategory": "Intel",
         "price": 8300,
         "description": "The ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard supports Intel 4th Generation Intel Core Processors (Socket 1150) and Dual Channel DDR3 1600. The Motherboard comes with 1 PCIe 2.0 x16, 1 PCIe 2.0 x1. It features a D-Sub port for graphic output. It is built with a High-Density Glass Fabric PCB design that reduces the gaps between the PCB layers to protect the motherboard against electrical shorts caused by humidity. This ASRock motherboard uses a Realtek gigabit LAN chip to support extremely fast internet connections. The ASRock H81M-VG4 R4.0 features a solid capacitor design. The motherboard offers full spike protection. It includes various technologies to prevent your motherboard’s components from being damaged by these unexpected voltage spikes. It also comes with ASRock Live Update & APP Shop. The ASRock H81M-VG4 R4.0 comes with 3 years of warranty.",
@@ -69,7 +69,7 @@
       {
         "image": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/pentium-gold-g6405/pentium-gold-g6405-01-500x500.webp",
         "name": "BIOSTAR H610MHP Micro ATX Motherboard",
-        "category": "Motherboard",
+        "category": "motherboard",
         "subCategory": "BIOSTAR",
         "price": 8000,
         "description": "The BIOSTAR H610MHP Micro ATX motherboard is a feature-packed and versatile motherboard designed to meet the demands of both 14th, 13th, and 12th-generation Intel Core processors. With its cutting-edge Intel H610 single-chip architecture, this motherboard provides an excellent platform for building a powerful and responsive system. This motherboard is built to support a wide range of Intel processors, including 12th, 13th, and 14th generation Intel Core processors, ensuring that you can take advantage of the latest technology and performance improvements. The BIOSTAR H610MHP supports up to 64GB of DDR4 memory with speeds ranging from 1866MHz to 3200MHz. This allows for smooth multitasking and efficient data handling for various applications. With support for PCIe 4.0, this motherboard offers faster data transfer speeds and enhanced graphics performance,",
@@ -82,7 +82,7 @@
       {
         "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/asrock/h470m-hdv-m-2/h470m-hdv-m-2-01-500x500.webp",
         "name": "ASRock H470M-HDV/M.2 10th Gen Micro ATX Motherboard",
-        "category": "Motherboard",
+        "category": "motherboard",
         "subCategory": "Intel",
         "price": 9500,
         "description": "The ASRock H470M-HDV/M.2 Micro ATX Motherboard supports 10th Gen Intel Core Processors (Socket 1200). It has a 7 Power Phase Design, it offers enhanced performance with the lowest temperature for advanced gamers. Complete with all three types of most used connectors. It features Dual Channel DDR4 Memory Technology and supports DDR4 2933/ 2800/ 2666 / 2400 / 2133 non-ECC, un-buffered memory. It has 2 x DDR4 DIMM Slots. It comes with a 7.1 CH HD Audio (Realtek ALC897 Audio Codec). It supports Intel Turbo Boost Max 3.0 Technology. It comes with 128Mb AMI UEFI Legal BIOS with multilingual GUI support. It has a High-Density Glass Fabric PCB design that reduces the gaps between the PCB layers to protect the motherboard against electrical shorts caused by humidity. You can also easily optimize your system and keep your motherboard up to date with ASRock Live Update & APP Shop.",
@@ -95,7 +95,7 @@
       {
         "image": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/value-ddr3/value-ddr3-500x500.webp",
         "name": "G.SKILL Value 4GB DDR3 1600Mhz Desktop RAM",
-        "category": "RAM",
+        "category": "ram",
         "subCategory": "G.SKILL",
         "price": 1800,
         "description": "The G.SKILL Value 4GB DDR3 1600Mhz RAM is made to provide the best performance on the most recent DDR3 platform. With the newest next-generation PC memory technology, your system will run smoothly whether you are processing a lot of data or playing a lot of games. To guarantee the highest level of performance and stability, all G.SKILL DDR3 memory kits are put through a thorough round of testing. G.SKILL DDR3 memory kits are put through many demanding tests in quad-channel memory operations to ensure that they are compatible with the majority of DDR3 platforms. It will work with the broadest range of motherboards and will deliver best-in-class performance, compatibility, and stability. G.SKILL Value 4GB DDR3 1600Mhz RAM operates at a standard frequency of 1600MHz and offers a substantially larger bandwidth than older DDR memory. For gaming, video and picture editing, rendering, and other business-related apps, you can benefit from a speedier computing experience.",
@@ -108,7 +108,7 @@
       {
         "image": "https://www.startech.com.bd/image/cache/catalog/ram/apacer/panther-golden-4gb-ddr4-2666mhz/panther-golden-4gb-ddr4-2666mhz-01-500x500.jpg",
         "name": "Apacer Panther Golden 4GB DDR4 2666MHZ Desktop RAM",
-        "category": "RAM",
+        "category": "ram",
         "subCategory": "Apacer",
         "price": 1600,
         "description": "The Apacer Panther Golden 4GB DDR4 2666MHZ RAM has a high level of compatibility. It is backward compatible with Intel and AMD series systems. This pattern is in the shape of a claw. On top, the unique and clever heat spreader design incorporates the panther's claws. It includes XMP 2.0 overclocking that is simple and easy to use, and it consumes very little power. The Apacer PANTHER-GOLDEN 4GB DDR4 2666MHZ Desktop RAM comes with a Lifetime warranty.",
@@ -121,7 +121,7 @@
       {
         "image": "https://www.startech.com.bd/image/cache/catalog/ram/netac/basic-4gb-ddr4-2666mhz/basic-4gb-ddr4-2666mhz-01-500x500.webp",
         "name": "Netac Basic 4GB DDR4 2666MHZ Desktop RAM",
-        "category": "RAM",
+        "category": "ram",
         "subCategory": "NETAC",
         "price": 1600,
         "description": "The Netac Basic 4GB DDR4 2666MHZ Desktop RAM is a high-performance memory module that is designed to be used as the main memory in PCs. This unbuffered DDR4 SDRAM DIMM operates at a high-speed of 2666MHz and has a capacity of 4GB. The module uses gold contact fingers for better conductivity and comes with several features that improve its performance. It has a low-power auto self-refresh (LPASR) function, which helps to reduce power consumption, and data bus inversion (DBI) for data bus, which minimizes signal distortion. The Netac Basic 4GB DDR4 2666MHZ Desktop RAM includes on-die termination (ODT) for data, strobe, and mask signals, temperature-controlled refresh (TCR), ",
@@ -134,7 +134,7 @@
       {
         "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/antec/meta-v550/meta-v550-01-500x500.webp",
         "name": "Antec META V550 550W Power Supply",
-        "category": "Power Supply",
+        "category": "powerSupply",
         "subCategory": "Antec",
         "price": 3300,
         "description": "The Antec META V550 is a 550-watt power supply unit that comes with a 24-pin connector (520mm in length), an 8-pin connector for EPS12V (4+4-pin) (550mm in length), an 8-pin connector for PCI-E (6+2-pin) (550mm in length), two 6-pin connectors for SATA (400mm in length each), two 6-pin connectors for SATA (400mm in length each) and one FDD connector. The PSU comes with a Thermal Manager and a 120mm silent fan. It is an advanced low-voltage fan control for optimal heat & noise management and will allow your PSU to stay at an optimal temperature. The 120 mm Silent Fan is ideal for quiet computing and is designed for longer life, guaranteeing hours of operation. It has an AC input voltage of 230VAC, with a frequency range of 47-63Hz and an input current of 5A. The DC output consists of +3.3V, +5V, +12V, -12V, and +5Vsb with maximum InRurrent ratings of 1,8A, 16A, 42A, 0.3A, and 2.5A respectively. The total combined power of the output is 110W, 300W, 3.6W, and 12.5W. The total wattage of the power supply is 550W.",
@@ -146,7 +146,7 @@
       {
         "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/antec/meta-v550/meta-v550-01-500x500.webp",
         "name": "Antec META V450 450W Power Supply",
-        "category": "Power Supply",
+        "category": "powerSupply",
         "subCategory": "Antec",
         "price": 3000,
         "description": "The Antec META V550 is a 550-watt power supply unit that comes with a 24-pin connector (520mm in length), an 8-pin connector for EPS12V (4+4-pin) (550mm in length), an 8-pin connector for PCI-E (6+2-pin) (550mm in length), two 6-pin connectors for SATA (400mm in length each), two 6-pin connectors for SATA (400mm in length each) and one FDD connector. The PSU comes with a Thermal Manager and a 120mm silent fan. It is an advanced low-voltage fan control for optimal heat & noise management and will allow your PSU to stay at an optimal temperature. The 120 mm Silent Fan is ideal for quiet computing and is designed for longer life, guaranteeing hours of operation. It has an AC input voltage of 230VAC, with a frequency range of 47-63Hz and an input current of 5A. The DC output consists of +3.3V, +5V, +12V, -12V, and +5Vsb with maximum InRurrent ratings of 1,8A, 16A, 42A, 0.3A, and 2.5A respectively. The total combined power of the output is 110W, 300W, 3.6W, and 12.5W. The total wattage of the power supply is 550W.",
@@ -158,7 +158,7 @@
       {
         "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/gamdias/kratos-m1-750b/kratos-m1-750b-01-500x500.jpg",
         "name": "Gamdias Kratos M1-750B 750W 80 Plus Bronze ARGB Power Supply",
-        "category": "Power Supply",
+        "category": "powerSupply",
         "subCategory": "GAMDIAS",
         "price": 6000,
         "description": "The Gamdias Kratos M1-750B 750W RGB Power Supply is a high-quality, ultra-quiet fan with an adjustable ARGB fan built-in. While retaining a safe and long-lasting power supply unit, it achieves 80 PLUS Bronze efficiency, considerably decreasing noise InRnd operating costs,.",
@@ -171,7 +171,7 @@
       {
         "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/thermaltake/gf2/tpgf2_750_01-500x500.webp",
         "name": "Thermaltake Toughpower GF2 ARGB 750W 80+ Gold Full Modular Power Supply",
-        "category": "Power Supply",
+        "category": "powerSupply",
         "subCategory": "Thermaltake",
         "price": 7500,
         "description": "The Thermaltake Toughpower GF2 ARGB 750W Gold is built with premium components and modern technology, making it a dependable and steady power supply unit. The revolutionary 16.8 million-color Riing Duo 140mm RGB fan with 18 preinstalled LEDs contributes to brighter and more vibrant lighting. The finely constructed RGB side panels let light shine through from all sides. For numerous illumination possibilities, ",
@@ -184,7 +184,7 @@
       {
         "image": "https://www.startech.com.bd/image/cache/catalog/storage/asustor/as6602t/as6602t-01-500x500.webp",
         "name": "Asustor AS6602T NAS Storage",
-        "category": "Storage",
+        "category": "storage",
         "subCategory": "Asustor",
         "price": 67000,
         "description": "The Asustor AS6602T NAS Storage is a high-performance network-attached storage device that comes with a variety of features and capabilities to support advanced storage requirements. It is designed to offer reliable data storage, fast data transfer speeds, and a range of backup and virtualization solutions. The device features two 2.5 GbE ports, which can support up to 5 Gbps under Link Aggregation. This makes it easy to transfer data quickly and efficiently,",
@@ -197,7 +197,7 @@
       {
         "image": "https://www.startech.com.bd/image/cache/catalog/portable-hdd%20/sandisk/g-drive-enterprise-class-4tb/g-drive-enterprise-class-4tb-01-500x500.webp",
         "name": "SanDisk Professional G-DRIVE Enterprise-Class 4TB External HDD",
-        "category": "Storage",
+        "category": "storage",
         "subCategory": "Sandisk",
         "price": 35000,
         "description": "meaning it can be overclocked past its maximum turbo frequency. However, this is not recommended, as it will cause the processor to run much hotter. Also, the warranty does not cover damage caused by overclocking, even when overclocking is enabled via AMD hardware. (No Warranty for Fan or Cooler)",
@@ -210,7 +210,7 @@
       {
         "image": "https://www.startech.com.bd/image/cache/catalog/ssd/seagate/barracuda-570/barracuda-570-01-500x500.webp",
         "name": "Seagate BarraCuda 570 500GB Gen4 M.2 2280 PCIe NVMe SSD",
-        "category": "Storage",
+        "category": "storage",
         "subCategory": "Seagate",
         "price": 4500,
         "description": "The Seagate BarraCuda 570 500GB M.2 PCIe NVMe SSD is a high-capacity storage option built for speed. With a storage size of 500GB, this SSD provides enough of room for varied data, apps, and multimedia files, making it suitable for both regular users and enthusiasts. It has a PCIe Gen4 4 NVMe ",
@@ -223,7 +223,7 @@
       {
         "image": "https://www.startech.com.bd/image/cache/catalog/monitor/xiaomi/rmmnt215nf/rmmnt215nf-01-500x500.jpg",
         "name": "Xiaomi Redmi RMMNT215NF 21.45 FHD Monitor",
-        "category": "Monitor",
+        "category": "monitor",
         "subCategory": "Xiaomi",
         "price": 9300,
         "description": "Xiaomi Redmi RMMNT215NF Monitor comes with a 21.45 FHD (1920 x 1080) @75Hz VA Display that is ideal for work and play, while retaining many of the finest details. It is Covering 100% sRGB color space, Redmi Display 21.45 delivers rich colors and subtle hues. in this monitor, HDMI 1.4 x1, VGA, Audio, DC IN interfaces are available. Here, High-precision brightness and color control technology effectively reduces harmful blue radiation. It can deliver brightness up to 300 nits. This monitor offers two modes of screen refresh rate 60/75 Hz, Full HD resolution, aspect ratio 16:9 and color depth 8 bit. The monitor supports the VESA mount standard and can be fixed on the wall. In this monitor, Advanced VA technology allows colors",
@@ -236,7 +236,7 @@
       {
         "image": "https://www.startech.com.bd/image/cache/catalog/monitor/viewsonic/va2215-h/va2215-h-01-500x500.jpg",
         "name": "ViewSonic VA2215-H 22 Full HD Monitor",
-        "category": "Monitor",
+        "category": "monitor",
         "subCategory": "Viewsonic",
         "price": 10000,
         "description": "The ViewSonic VA2215-H is a 22 Full HD monitor with HDMI and VGA input options. It delivers a stunning image quality with low power consumption. Full HD 1920x1080 resolution creates unbelievably clear pixel-by-pixel image performance. Experience amazing clarity and detail while working, gaming, or enjoying the latest entertainment. This monitor provides six ViewMode presets that deliver optimized screen performance based on your needs. Adaptive sync means no tearing or stuttering even when gaming. The eye care technology that comes standard with all VA monitors helps to eliminate eye strain from extended viewing periods. A VESA-compatible mount makes this monitor easy to set up on the wall or with a wide range of industry-standard mounts. Flicker-Free technology and a Blue Light Filter help to eliminate eye strain from extended viewing periods. The ViewSonic VA2215-H comes with 3 years of warranty.",
@@ -249,7 +249,7 @@
       {
         "image": "https://www.startech.com.bd/image/cache/catalog/monitor/lenovo/e20-30/e20-30-01-500x500.webp",
         "name": "Lenovo ThinkVision E20-30 19.5-inch WLED HD+ Monitor",
-        "category": "Monitor",
+        "category": "monitor",
         "subCategory": "Lenovo",
         "price": 9500,
         "description": "The ThinkVision E20-30 Monitor comes with a 1600x900 resolution screen to ensure that the colors on the screen remain true. The monitor's TUV Low Blue Light and TUV Flicker Free certifications shield your eyes from harmful blue light, significantly decrease visual fatigue, and minimize screen flicker. Thanks to the monitor, the job is stress-free. In today's offices, it's crucial to feel at ease and connected while working. ",
@@ -262,7 +262,7 @@
       {
         "image": "https://www.startech.com.bd/image/cache/catalog/monitor/msi/mp223/mp223-06-500x500.webp",
         "name": "MSI PRO MP223 21.45 Full HD Business Monitor",
-        "category": "Monitor",
+        "category": "monitor",
         "subCategory": "MSI Pro",
         "price": 12000,
         "description": "The MSI PRO MP223 21.45 100Hz Full HD Business Monitor Boost your productivity at work with the 21.5-inch Full HD Monitor. Your programs, spreadsheets, and other crucial work papers may be seen with ease on its large 21.45-inch screen. Your eyes are protected by MSI Anti-Flicker technology",
@@ -275,7 +275,7 @@
       {
         "image": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/pentium-gold-g6405/pentium-gold-g6405-01-500x500.webp",
         "name": "GIGABYTE H410M H V2 10th Gen Micro ATX Motherboard",
-        "category": "Motherboard",
+        "category": "motherboard",
         "subCategory": "GIGABYTE",
         "price": 9000,
         "description": "The GIGABYTE H410M H V2 10th & Gen Micro ATX Motherboard is made for Intel 10th and Generation processors. The GIGABYTE H410M H V2 Gen Motherboard has two DIMM RAM slots available which can support Bus Speeds of up to 2933MHz. The motherboard supports HDMI and D-Sub graphical output ports and can display two displays at once. The GIGABYTE motherboard also comes with 8-Channel HD Audio with High-Quality Audio Capacitors which provide crystal clear sound all around. The mother also provides you with NVMe PCIe Gen3 x4 2280 M.2 Connector, Intel GbE LAN with cFosSpeed Internet Accelerator Software, and more.",
@@ -288,7 +288,7 @@
       {
         "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/asrock/h510m-hdv-m-2/h510m-hdv-m-2-500x500.jpg",
         "name": "ASRock H510M-HDV/M.2 10th and 11th Gen Micro ATX Motherboard",
-        "category": "Motherboard",
+        "category": "motherboard",
         "subCategory": "ASRock",
         "price": 9500,
         "description": "Designed for overclocking, the Athlon 3000G 3.5 GHz Dual-Core AM4 Processor from AMD has a base clock speed of 3.5 GHz, two cores with four threads in an AM4 socket, 1MB of L2 cache memory, and 4MB of L3 cache memory. Having two cores allows the processor to run multiple programs simultaneously without slowing down the system, while the four threads allow a basic ordered sequence of instructions to be passed through or processed by a single CPU core. This processor also has a TDP of 35W. Graphically, the Athlon 3000G uses integrated AMD Radeon Vega 3 Graphics. It is also unlocked, meaning it can be overclocked past its maximum turbo frequency. However, this is not recommended, as it will cause the processor to run much hotter. Also, the warranty does not cover damage caused by overclocking, even when overclocking is enabled via AMD hardware. (No Warranty for Fan or Cooler)",
@@ -301,7 +301,7 @@
       {
         "image": "https://www.startech.com.bd/image/cache/catalog/processor/intel/intel-12th-gen-pentium-gold-g7400/intel-pentium-gold-g7400-12th-gen-alder-lake-01-500x500.jpg",
         "name": "Intel Pentium G7400 Alder Lake Processor",
-        "category": "Processor",
+        "category": "processor",
         "subCategory": "Intel",
         "price": 7300,
         "description": "Intel 12th Gen Pentium Gold G7400 Alder Lake Processor is a CPU from Intel. Intel Pentium Gold G7400 12th gen Processor turns your desktop computer system or data server into a more efficient machine. This 12th generation 3.7 GHz processor features two Performance cores and 6MB of cache with support for up to four threads, providing the power to run and multitask a variety of applications. The Pentium Gold G7400 also includes support for PCI Express 5.0 and dual-channel DDR5 memory in addition to having integrated Intel UHD 710 Graphics. An Intel Laminar RS1 thermal solution is included.",
@@ -314,7 +314,7 @@
       {
         "image": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/pentium-gold-g6405/pentium-gold-g6405-01-500x500.webp",
         "name": "Intel Pentium Golden G6405 Coffee Lake Processor",
-        "category": "Processor",
+        "category": "processor",
         "subCategory": "Intel",
         "price": 8000,
         "description": "Designed for overclocking, the Athlon 3000G 3.5 GHz Dual-Core AM4 Processor from AMD has a base clock speed of 3.5 GHz, two cores with four threads in an AM4 socket, 1MB of L2 cache memory, and 4MB of L3 cache memory. Having two cores allows the processor to run multiple programs simultaneously without slowing down the system, while the four threads allow a basic ordered sequence of instructions to be passed through or processed by a single CPU core. This processor also has a TDP of 35W. Graphically, the Athlon 3000G uses integrated AMD Radeon Vega 3 Graphics. It is also unlocked, meaning it can be overclocked past its maximum turbo frequency. However, this is not recommended, as it will cause the processor to run much hotter. Also, the warranty does not cover damage caused by overclocking, even when overclocking is enabled via AMD hardware. (No Warranty for Fan or Cooler)",

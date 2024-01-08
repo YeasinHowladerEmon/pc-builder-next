@@ -2,13 +2,14 @@ import RootLayout from '@/components/Layouts/RootLayout';
 import { Cpu, Monitor, Motherboard, PowerSupply, Ram, Storage } from '@/components/svgs';
 import Image from 'next/image';
 import Link from 'next/link';
-import React, { useState } from 'react';
+
 import { useSelector } from 'react-redux';
 
 
 const PCBuilder = () => {
     const pcBuilder = useSelector((state) => state.pcBuilder)
     console.log(pcBuilder.build);
+    console.log(pcBuilder.processor);
     const build = () => {
         alert('Complete you build')
     }
@@ -36,7 +37,7 @@ const PCBuilder = () => {
                                 }
                             </div>
                         </div>
-                        <Link className='btn border-white hover:bg-purple-600 ml-auto my-auto' href='/chooseCategory/Processor' disabled={pcBuilder.processor.length > 0 ? true : false}>Choose</Link>
+                        <Link className='btn border-white hover:bg-purple-600 ml-auto my-auto' href='/chooseCategory/processor' disabled={pcBuilder.processor.length > 0 ? true : false}>Choose</Link>
                     </div>
                 </div>
                 <div className='mb-5'>
@@ -58,7 +59,7 @@ const PCBuilder = () => {
                                 }
                             </div>
                         </div>
-                        <Link className='btn border-white hover:bg-purple-600 ml-auto my-auto' href='/chooseCategory/Motherboard' disabled={pcBuilder.motherboard.length > 0 ? true : false}>Choose</Link>
+                        <Link className='btn border-white hover:bg-purple-600 ml-auto my-auto' href='/chooseCategory/motherboard' disabled={pcBuilder.motherboard.length > 0 ? true : false}>Choose</Link>
                     </div>
                 </div>
                 <div className='mb-5'>
@@ -80,7 +81,7 @@ const PCBuilder = () => {
                                 }
                             </div>
                         </div>
-                        <Link className='btn border-white hover:bg-purple-600 ml-auto my-auto' href='/chooseCategory/Monitor' disabled={pcBuilder.monitor.length > 0 ? true : false}>Choose</Link>
+                        <Link className='btn border-white hover:bg-purple-600 ml-auto my-auto' href='/chooseCategory/monitor' disabled={pcBuilder.monitor.length > 0 ? true : false}>Choose</Link>
                     </div>
                 </div>
                 <div className='mb-5'>
@@ -90,12 +91,12 @@ const PCBuilder = () => {
                             <h3 className='font-bold text-1xl text-white'>Power Supply</h3>
                             <div>
                                 {
-                                    pcBuilder.powerSupply.map((powerSupply, i) => (
+                                    pcBuilder.powerSupply.map((powersupply, i) => (
                                         <>
                                             <div key={i} className='flex' >
-                                                <Image src={powerSupply.image} width={30} height={30} alt="product!"
+                                                <Image src={powersupply.image} width={30} height={30} alt="product!"
                                                 />
-                                                <h3 className='ml-5'>{powerSupply.name}</h3>
+                                                <h3 className='ml-5'>{powersupply.name}</h3>
 
                                             </div>
                                         </>
@@ -103,7 +104,7 @@ const PCBuilder = () => {
                                 }
                             </div>
                         </div>
-                        <Link className='btn border-white hover:bg-purple-600 ml-auto my-auto' href='/chooseCategory/Power Supply' disabled={pcBuilder.powerSupply.length > 0 ? true : false}>Choose</Link>
+                        <Link className='btn border-white hover:bg-purple-600 ml-auto my-auto' href='/chooseCategory/powerSupply' disabled={pcBuilder.powerSupply.length > 0 ? true : false}>Choose</Link>
                     </div>
                 </div>
                 <div className='mb-5'>
@@ -124,7 +125,7 @@ const PCBuilder = () => {
                                 }
                             </div>
                         </div>
-                        <Link className='btn border-white hover:bg-purple-600 ml-auto my-auto' href='/chooseCategory/Ram' disabled={pcBuilder.ram.length > 0 ? true : false}>Choose</Link>
+                        <Link className='btn border-white hover:bg-purple-600 ml-auto my-auto' href='/chooseCategory/ram' disabled={pcBuilder.ram.length > 0 ? true : false}>Choose</Link>
                     </div>
                 </div>
                 <div className='mb-5'>
@@ -146,7 +147,7 @@ const PCBuilder = () => {
                                 }
                             </div>
                         </div>
-                        <Link className='btn border-white hover:bg-purple-600 ml-auto my-auto' href='/chooseCategoryId/Storage' disabled={pcBuilder.storage.length > 0 ? true : false}>Choose</Link>
+                        <Link className='btn border-white hover:bg-purple-600 ml-auto my-auto' href='/chooseCategory/storage' disabled={pcBuilder.storage.length > 0 ? true : false}>Choose</Link>
                     </div>
                 </div>
 

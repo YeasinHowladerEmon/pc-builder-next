@@ -15,12 +15,12 @@ const Navbar = () => {
                             <li>
                                 <a>Products</a>
                                 <ul className="p-2">
-                                    <li><Link href='/category/Processor'>CPU / Processor</Link></li>
-                                    <li><Link href='/category/Motherboard'>Motherboard</Link></li>
-                                    <li><Link href='/category/RAM'>RAM</Link></li>
-                                    <li><Link href='/category/Power Supply'>Power Supply Unit</Link></li>
-                                    <li><Link href='/category/Storage'>Storage Device</Link></li>
-                                    <li><Link href='/category/Monitor'>Monitor</Link></li>
+                                    <li><Link href='/category/processor'>CPU / Processor</Link></li>
+                                    <li><Link href='/category/motherboard'>Motherboard</Link></li>
+                                    <li><Link href='/category/ram'>RAM</Link></li>
+                                    <li><Link href='/category/powerSupply'>Power Supply Unit</Link></li>
+                                    <li><Link href='/category/storage'>Storage Device</Link></li>
+                                    <li><Link href='/category/monitor'>Monitor</Link></li>
                                 </ul>
                             </li>
                             <li><a>About Us</a></li>
@@ -36,12 +36,12 @@ const Navbar = () => {
                             <details>
                                 <summary>Products</summary>
                                 <ul className="p-2">
-                                    <li><Link href='/category/Processor'>CPU / Processor</Link></li>
-                                    <li><Link href='/category/Motherboard'>Motherboard</Link></li>
-                                    <li><Link href='/category/RAM'>RAM</Link></li>
-                                    <li><Link href='/category/Power Supply'>Power Supply Unit</Link></li>
-                                    <li><Link href='/category/Storage'>Storage Device</Link></li>
-                                    <li><Link href='/category/Monitor'>Monitor</Link></li>
+                                    <li><Link href='/category/processor'>CPU / Processor</Link></li>
+                                    <li><Link href='/category/motherboard'>Motherboard</Link></li>
+                                    <li><Link href='/category/ram'>RAM</Link></li>
+                                    <li><Link href='/category/powerSupply'>Power Supply Unit</Link></li>
+                                    <li><Link href='/category/storage'>Storage Device</Link></li>
+                                    <li><Link href='/category/monitor'>Monitor</Link></li>
                                 </ul>
                             </details>
                         </li>

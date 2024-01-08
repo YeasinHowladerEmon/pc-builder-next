@@ -49,7 +49,7 @@ Categories.getLayout = function getLayout(page) {
 
 
 export const getServerSideProps = async ({ params }) => {
-    const res = await fetch(`http://127.0.0.1:3000/api/products?category=${params.category}`)
+    const res = await fetch(`https://pc-builder-next-tan.vercel.app/api/products?category=${params.category}`)
     const data = await res.json();
     return {
         props: {

@@ -3,13 +3,14 @@ import convertToLowerCaseNoSpace from '@/lib/convertLowerCase';
 import { addToBuild } from '@/redux/slice/pcBuilderSlice';
 import Image from 'next/image';
 import Link from 'next/link';
+
 import { useDispatch } from 'react-redux';
 
 const ChooseIdCategory = ({ components, categoryName }) => {
     const dispatch = useDispatch();
-    const result = convertToLowerCaseNoSpace(categoryName)
+    
     const handleAddtoBuild = (component) => {
-        dispatch(addToBuild({ category: result, component }));
+        dispatch(addToBuild({ category: categoryName, component }));
     }
     return (
         <div className="container mx-auto mt-10" >
@@ -47,7 +48,7 @@ ChooseIdCategory.getLayout = function getLayout(page) {
 
 export const getServerSideProps = async ({ params }) => {
     console.log(params);
-    const res = await fetch(`http://127.0.0.1:3000/api/products?category=${params.chooseCategoryId}`)
+    const res = await fetch(`https://pc-builder-next-tan.vercel.app/api/products?category=${params.chooseCategoryId}`)
     const data = await res.json();
     return {
         props: {
